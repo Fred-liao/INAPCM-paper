@@ -1,6 +1,6 @@
 ## Information on Ambient PM2.5 Dataset
 
-The dataset (Data/SM_data_Predicted_PM.rds) contains predicted ambient monthly PM2.5 concentration in (ug/m3), from 2009 – 2018. You can open it using R software.
+The dataset (Data/SM_data_Predicted_PM.rds) contains predicted ambient monthly PM<sub>2.5</sub> concentration in (ug/m<sup>3</sup>), from 2009 – 2018. You can open it using R software.
 Below table shows the details of the dataset:
 
 
