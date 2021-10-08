@@ -10,5 +10,5 @@ Below table shows the details of the dataset:
 | lat   | Numeric | Latitude of grid centroid |
 |  Year | Numeric   | Year (yyyy)    |
 | Month   | Numeric | Month (mm) |
-|  Predicted_PM | Numeric   | Predicted monthly PM2.5 concentration in ug/m3    |
+|  Predicted_PM | Numeric   | Predicted monthly PM<sub>2.5</sub>  concentration in ug/m<sup>3</sup>    |
 | Population   | Numeric | Predicted 1/144 of annual mean population in the grid |
